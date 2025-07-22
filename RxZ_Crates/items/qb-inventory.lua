@@ -1,0 +1,6 @@
+    codelock    = { name = 'codelock', label = 'Code Lock', weight = 500, type = 'item', image = 'lock.png', unique = false, useable = true, shouldClose = true, description = '' },
+    boxonesmall = { name = 'boxonesmall', label = 'Box One Small', weight = 100, type = 'item', image = 'box.png', unique = false, useable = true, shouldClose = true, description = '' },
+    boxtwosmall = { name = 'boxtwosmall', label = 'Box Two Small', weight = 100, type = 'item', image = 'box.png', unique = false, useable = true, shouldClose = true, description = '' },
+    boxonebig   = { name = 'boxonebig', label = 'Box One Big', weight = 200, type = 'item', image = 'box.png', unique = false, useable = true, shouldClose = true, description = '' },
+    boxtwobig   = { name = 'boxtwobig', label = 'Box Two Big', weight = 200, type = 'item', image = 'box.png', unique = false, useable = true, shouldClose = true, description = '' },
+    boxtreebig  = { name = 'boxtreebig', label = 'Box Three Big', weight = 200, type = 'item', image = 'box.png', unique = false, useable = true, shouldClose = true, description = '' },

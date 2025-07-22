@@ -1,0 +1,1 @@
+wartablet = { name = "wartablet", label = "War Tablet", weight = 175, type = "item", image = "war_tablet.png", unique = false, useable = true, shouldClose = true, combinable = nil, description = "Helps to block radiation exposure" },

@@ -1,0 +1,24 @@
+["rx_card"] = {
+    ["name"] = "rx_card",
+    ["label"] = "Fleeca Card",
+    ["weight"] = 10,
+    ["type"] = "item",
+    ["image"] = "rx_card.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["combinable"] = nil,
+    ["description"] = "Fleeca Card"
+},
+["skimmer"] = {
+    ["name"] = "skimmer",
+    ["label"] = "Skimmer",
+    ["weight"] = 10,
+    ["type"] = "item",
+    ["image"] = "skimmer.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["combinable"] = nil,
+    ["description"] = "Skimmer"
+},

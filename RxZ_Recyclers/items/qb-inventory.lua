@@ -1,0 +1,1 @@
+    recycler      = { name = 'recycler', label = 'Recycler', weight = 1000, type = 'item', image = 'recycler.png', unique = false, useable = true, shouldClose = true, description = 'A machine used for recycling materials.' },

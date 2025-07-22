@@ -1,0 +1,1 @@
+radiation_pills = { name = "radiation_pills", label = "Radiation Pills", weight = 175, type = "item", image = "radiation_pillspng", unique = false, useable = true, shouldClose = true, combinable = nil, description = "Helps to block radiation exposure" },
