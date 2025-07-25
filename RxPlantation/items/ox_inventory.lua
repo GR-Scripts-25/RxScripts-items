@@ -148,3 +148,4 @@
     stack = true,
     close = true,
     description = 'Potato from potato plants'
+},
